@@ -23,7 +23,7 @@ Based in Florida · U.S. Navy veteran · FAA Part 107 Remote Pilot
 | [Patriot Claim Tracker](https://github.com/GabrielAllit1/Patriot-Claim-Tracker) | Local-first Chrome extension that helps veterans organize authorized VA.gov information without a SALT19-hosted data service |
 | [SignalLoom InvoiceOps](https://github.com/GabrielAllit1/SignalLoom) | Human-gated invoice extraction, review, exception handling, approval preparation, and AP handoff automation |
 | [AetherCoach](https://github.com/GabrielAllit1/AetherCoach) | Local screen capture, OCR, basic redaction, Ollama inference, and contextual desktop feedback |
-| [AeroClear](https://aeroclear.salt19.com) | UAS mission-readiness and flight-intelligence platform combining operational constraints, weather, GNSS/Kp context, and explainable go/no-go support |
+| [AeroClear](https://aeroclear.salt19.com/?utm_source=github&utm_medium=profile&utm_campaign=aeroclear_growth_20260826&utm_content=selected_work) | UAS mission-readiness and flight-intelligence platform combining operational constraints, weather, GNSS/Kp context, and explainable go/no-go support |
 | [EvoMind research](https://doi.org/10.5281/zenodo.20580153) | Local-first governed cognitive architecture integrating reasoning, planning, memory, perception, execution, feedback, and validation |
 | [SALT19 Agent Utility Grid](https://salt19.com/agent-utility-grid/) | MCP/x402 machine-to-machine technical utilities with Base USDC settlement, Stripe reconciliation, and Cloudflare D1 evidence |
 
