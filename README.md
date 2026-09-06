@@ -24,7 +24,9 @@ Based in Florida · U.S. Navy veteran · FAA Part 107 Remote Pilot
 | [SignalLoom InvoiceOps](https://github.com/GabrielAllit1/SignalLoom) | Human-gated invoice extraction, review, exception handling, approval preparation, and AP handoff automation |
 | [AetherCoach](https://github.com/GabrielAllit1/AetherCoach) | Local screen capture, OCR, basic redaction, Ollama inference, and contextual desktop feedback |
 | [AeroClear](https://aeroclear.salt19.com/?utm_source=github&utm_medium=profile&utm_campaign=aeroclear_growth_20260826&utm_content=selected_work) | UAS mission-readiness and flight-intelligence platform combining operational constraints, weather, GNSS/Kp context, and explainable go/no-go support |
-| [EvoMind research](https://doi.org/10.5281/zenodo.20580153) | Local-first governed cognitive architecture integrating reasoning, planning, memory, perception, execution, feedback, and validation |
+| [DroneMesh](https://salt19.com/dronemesh/) | Local-first photogrammetry workstation; a completed 3,711-image DJI M3E mission produced 10 validated deliverables in 18m 22s on the disclosed workstation/profile |
+| [EvoMind research](https://salt19.com/research) | Governed cognitive architecture integrating persistent reasoning, planning, memory, capability composition, execution authority, verification, artifact lineage, and controlled experience reuse |
+| [AGTP-1](https://doi.org/10.5281/zenodo.22385043) | Reproducible interrupted composite equal-area world-projection study with optimized land-bearing Equal Earth lobes, a South-Polar LAEA lobe, seam audits, distortion benchmarks, and falsification criteria |
 | [SALT19 Agent Utility Grid](https://salt19.com/agent-utility-grid/) | MCP/x402 machine-to-machine technical utilities with Base USDC settlement, Stripe reconciliation, and Cloudflare D1 evidence |
 
 ## Technical toolkit
@@ -34,14 +36,20 @@ Based in Florida · U.S. Navy veteran · FAA Part 107 Remote Pilot
 ## Research and professional links
 
 - [Portfolio and technical work](https://salt19.com/founder)
+- [EvoMind research hub](https://salt19.com/research)
+- [EvoMind validation record](https://salt19.com/validation-report)
 - [LinkedIn](https://www.linkedin.com/in/gabrielallit/)
 - [ORCID](https://orcid.org/0009-0008-2365-226X)
 - [EvoMind software and architecture publication](https://doi.org/10.5281/zenodo.20580153)
-- [Governed experience-compounding research](https://doi.org/10.5281/zenodo.21881379)
-- [Latest Zenodo deposit](https://doi.org/10.5281/zenodo.21957527)
+- [Verified Semantic Transitions](https://doi.org/10.5281/zenodo.21270654)
+- [Governed Experience Compounding](https://doi.org/10.5281/zenodo.21881379)
+- [From Intent to Verified Work Products](https://doi.org/10.5281/zenodo.21957527)
+- [Allit Geoid Truth Projection (AGTP-1)](https://doi.org/10.5281/zenodo.22385043)
 
 ## Current direction
 
 I am developing reliable autonomy at the intersection of **sensors → perception → probabilistic reasoning → planning → governed execution → fresh verification**.
+
+I also publish reproducible geospatial and cartographic engineering work with explicit benchmarks, limitations, and falsification criteria.
 
 Open to autonomy, robotics, UAS, perception, defense technology, systems integration, and applied-AI opportunities.
